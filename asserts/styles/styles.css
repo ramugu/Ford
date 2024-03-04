@@ -1,0 +1,142 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.nav1 {
+    /* width: 100%; */
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+}
+
+.con1 {
+    width: 70%;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+}
+
+.nav2 {
+    /* width: 100%; */
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+}
+
+/* .logo {
+
+    margin-left: 100px;
+} */
+
+.logo .logo1 {
+    display: block;
+    width: 90px;
+}
+
+.list a {
+    font-weight: 900;
+    font-size: 16px;
+    font-family: "Antenna", Arial, Helvetica, "Microsoft YaHei", "微软雅黑", "STXihei", "华文细黑", "SimSun", "宋体";
+}
+
+.list a:last-child {
+    font-weight: 400;
+    font-size: 14px;
+    /* margin-right: 70px; */
+
+}
+
+.list a:nth-last-child(2) {
+    font-weight: 400;
+    font-size: 14px;
+
+}
+
+.img {
+    width: 100%;
+    height: 550px;
+    padding: 0;
+    margin: 0;
+}
+
+.banner {
+    position: relative;
+    top: 15px;
+}
+
+.cla {
+    position: absolute;
+    bottom: 70px;
+    left: 200px;
+    z-index: 100;
+    width: 150px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 10rem;
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    font-family: "Antenna", Arial, Helvetica, "Microsoft YaHei", "微软��黑", "STXihei", "华文细黑", "SimSun", "��体";
+}
+
+.cla:hover {
+    background: #fff;
+    color: #0008ba;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+
+.cla1 {
+    position: absolute;
+    bottom: 130px;
+    left: -80px;
+    z-index: 100;
+    width: 200px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 10rem;
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    font-family: "Antenna", Arial, Helvetica, "Microsoft YaHei", "微软��黑", "STXihei", "华文细黑", "SimSun", "��体";
+}
+
+.cla1:hover {
+    background: #fff;
+    color:  #0008ba;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.but {
+    text-decoration: none;
+    margin-left: 65px;
+    font-size: 20px;
+    font-family: "Antenna", Arial, Helvetica, "Microsoft YaHei", "微软雅黑", "STXihei", "华文细黑", "SimSun", "宋体";
+}
+
+.but1 {
+    text-decoration: none;
+    margin-top: 60px;
+    font-size: 20px;
+    font-family: "Antenna", Arial, Helvetica, "Microsoft YaHei", "微软雅黑", "STXihei", "华文细黑", "SimSun", "宋体";
+}
+
+.but2 {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Antenna", Arial, Helvetica, "Microsoft YaHei", "微软雅黑", "STXihei", "华文细黑", "SimSun", "宋体";
+}
+
+/* .v1 {
+    font-size: large;
+    text-decoration: none;
+    border: 1px solid #008cba;
+    padding: 15px 590px;
+} */
